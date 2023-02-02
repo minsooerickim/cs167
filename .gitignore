@@ -1,0 +1,6 @@
+# lab 2 large files
+.AREAWATER_COPY.csv.crc
+.HDFS_TO_LOCAL.csv.crc
+AREAWATER.csv
+AREAWATER_COPY.csv
+HDFS_TO_LOCAL.csv
