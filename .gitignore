@@ -4,3 +4,7 @@
 AREAWATER.csv
 AREAWATER_COPY.csv
 HDFS_TO_LOCAL.csv
+
+# lab 3 large files
+nasa_19950630.22-19950728.12.tsv
+nasa_19950801.tsv
